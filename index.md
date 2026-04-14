@@ -1,5 +1,7 @@
 # SpeedGuard
 
+![SpeedGuard icon](./assets/speedguard-logo.svg)
+
 SpeedGuard is an Android app for speed monitoring with configurable alerts:
 
 - voice alert (TTS)
