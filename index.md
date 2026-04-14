@@ -1,6 +1,8 @@
 # SpeedGuard
 
-![SpeedGuard icon](./assets/speedguard-logo.png)
+<p align="center">
+  <img src="./assets/speedguard-logo-transparent.png" alt="SpeedGuard icon" width="220" />
+</p>
 
 SpeedGuard is an Android app for speed monitoring with configurable alerts:
 
