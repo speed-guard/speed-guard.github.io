@@ -20,6 +20,7 @@ SpeedGuard is an assistance tool. It does not replace attention to traffic, road
 - [Privacy Policy](./privacy-policy.md)
 - [Support](./support.md)
 - [Internal Testing Notes](./internal-testing-notes.md)
+- [Family Testing Plan](./family-testing-plan.md)
 
 ## Contact
 
